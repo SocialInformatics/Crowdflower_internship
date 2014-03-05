@@ -1,9 +1,10 @@
-CrowdFlower_internship
+Surveys conducted on CrowdFlower platform
 ======================
 
-Surveys results and short analysis
-
-
-======================
-
-In this repository you can find a script for creating a database containing the survey data and queries scripts.
+Please notice that for privacy issues 5 columns were deleted from datasets:
+ - worker_id
+ - trust
+ - country
+ - region
+ - city
+ - 
